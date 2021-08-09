@@ -1,8 +1,8 @@
 ## Description
 
-The goal of this project is to provide a stable, scailable method for producing Rocket Fuel from the Ender IO mod for Minecraft. Specifically, this documentation was written for the Direwolf20 1.12 v2.8.0 modpack.
+The goal of this project is to provide a stable, scalable method for producing Rocket Fuel from the Ender IO mod for Minecraft. Specifically, this documentation was written for the Direwolf20 1.12 v2.8.0 modpack.
 
-Rocket Fuel from Ender IO is a powerfull liquid fuel when burned in various liquid burning generators, notiabily Ender IO's Combustion Generator (and enhanced variant) and the Gas Turbine from Advanced Generators. Additionally, the materials used in the production of Rocket Fuel are renewable, making Rocket Fuel a renewable fuel source.
+Rocket Fuel from Ender IO is a powerful liquid fuel when burned in various liquid burning generators, notably Ender IO's Combustion Generator (and enhanced variant) and the Gas Turbine from Advanced Generators. Additionally, the materials used in the production of Rocket Fuel are renewable, making Rocket Fuel a renewable fuel source.
 
 ## Rocket Fuel Stats
 
@@ -155,7 +155,7 @@ done
 
 ### Adding/Editing Images
 
-When groff, specifically the pic macro package, inserts an image into a document, it wants that image formated as a PostScript (PS) file. The following is how to convert a .png into a .ps file.
+When groff, specifically the pic macro package, inserts an image into a document, it wants that image formatted as a PostScript (PS) file. The following is how to convert a .png into a .ps file.
 
 Whenever an image is added or edited, run the following command within `images/<directory>/original`:
 ```bash
