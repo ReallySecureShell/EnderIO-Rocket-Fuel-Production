@@ -155,8 +155,10 @@ done
 
 ### Adding/Editing Images
 
+When groff, specifically the pic macro package, inserts an image into a document, it wants that image formated as a PostScript (PS) file. The following is how to convert a .png into a .ps file.
+
 Whenever an image is added or edited, run the following command within `images/<directory>/original`:
 ```bash
 for i in `ls -1v *.png | sed -E 's/(.*).png/\1/g'`;do imagetops --noturn "$i".png > ../ps/"$i".ps;done
 ```
-This assumes you are adding/editing a .png file.
+This assumes you are adding/editing a .png file, this command WILL NOT WORK FOR ANY OTHER IMAGE FORMAT OTHER THAN A PNG.
