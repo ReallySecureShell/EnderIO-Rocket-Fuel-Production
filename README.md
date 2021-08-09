@@ -9,7 +9,7 @@ Rocket Fuel from Ender IO is a powerful liquid fuel when burned in various liqui
 Generator | Production (Forge Energy (FE) Units) | Remarks | Source
 --------- | ------------------------------------ | ------- | ------
 Combustion Generator (not enhanced) | 1120/mb | Output when an Octadic Capacitor is installed. This generator requires a coolant (e.g. water) along with fuel. | https://ftb.fandom.com/wiki/Combustion_Generator_(Ender_IO)
-Gas Turbine Controller | 1120/mb | Increase fuel efficiency with (1x) Fuel/Air Mixer and (1x) Gas Mix Compressor | https://ftb.fandom.com/wiki/Gas_Turbine_Controller
+Gas Turbine Controller | 1120/mb | Increase fuel efficiency with (1x) Fuel/Air Mixer and (1x) Gas Mix Compressor. | https://ftb.fandom.com/wiki/Gas_Turbine_Controller
 
 ## Setup
 If you wish to read the documentation as-is, you may download the PDF in the root of this repository (CRHI Standards Track Publication 100-00A Revision 0.pdf).
