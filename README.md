@@ -34,7 +34,7 @@ ps2pdf CRHI Standards Track Publication 100-00A Revision 0.ps CRHI Standards Tra
 ```
 
 #### groffwatcher
-A shell utility that automatically compiles a PDF whenever the groff file is saved, used in the example above.
+A shell utility that automatically compiles a PDF whenever the groff file is saved, used in the previous section.
 ```sh
 #!/bin/sh
 
