@@ -29,8 +29,8 @@ I made a shell script a while ago that automatically compiles the PDF whenever t
 
 If not using the shell script, use the following two (2) commands:
 ```
-groff -ms -R -p -t  -T ps CRHI Standards Track Publication 100-00A Revision 0.ms > CRHI Standards Track Publication 100-00A Revision 0.ps
-ps2pdf CRHI Standards Track Publication 100-00A Revision 0.ps CRHI Standards Track Publication 100-00A Revision 0.pdf
+groff -ms -R -p -t  -T ps CRHI\ Standards\ Track\ Publication\ 100-00A\ Revision\ 0.ms > CRHI\ Standards\ Track\ Publication\ 100-00A\ Revision\ 0.ps
+ps2pdf CRHI\ Standards\ Track\ Publication\ 100-00A\ Revision\ 0.ps CRHI\ Standards\ Track\ Publication\ 100-00A\ Revision\ 0.pdf
 ```
 
 #### groffwatcher
