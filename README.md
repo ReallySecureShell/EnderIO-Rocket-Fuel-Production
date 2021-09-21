@@ -14,10 +14,10 @@ Gas Turbine Controller | 1120/mb | Increase fuel efficiency with (1x) Fuel/Air M
 ## Setup
 If you wish to read the documentation as-is, you may download the PDF in the root of this repository (CRHI Standards Track Publication 100-00A Revision 0.pdf).
 
-However, if you wish to make contributions to this documentation then download the files in `src/`. The source is written using the groff_ms macro package. Additionally, due to GitHub's limit on file sizes and the quantity of files you can upload, the images have been broken up into six (6) tar.gz archive files. You must assemble these files in-order to recover the full archive (see next section).
+However, if you wish to make contributions to this documentation then download the files in `src/`. The source is written using the groff_ms macro package. Additionally, due to GitHub's limit on file sizes and the quantity of files you can upload, the images have been broken up into Nth amount of tar.gz archive files. You must assemble these files in-order to recover the full archive (see next section).
 
 ### Recover the Image Archive
-1. Download all the parts of the archive (images.tar.gz_01 - images.tar.gz_06) into an empty directory, then
+1. Download all the parts of the archive (images.tar.gz_01 - images.tar.gz_NN) into an empty directory, then
 2. Run the following command:
 ```bash
 for i in `ls -1v *.tar.gz_0[0-9]`;do cat "$i" >> images.tar.gz;done
