@@ -96,7 +96,7 @@ Director, CRHI\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 0. Requirements Notation
 .XA 1
 1. Production Design Overview
-.XA 1
+.XA 2
     1.1. Operating States of Production Systems
 .XA 2
     1.2. Expectations for a Defined Production Stage
@@ -116,251 +116,245 @@ Director, CRHI\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
         1.3.1. Forge Energy
 .XA 3
         1.3.2. Ender IO Conduits
-.XA 4
+.XA 3
 2. Applied Energistics 2 Physical/Logical Infrastructure
-.XA 4
+.XA 3
     2.1. Components of the Applied Energistics 2 Infrastructure
-.XA 1
+.XA 3
         2.1.1. Handoff-Zone Network
-.XA 1
+.XA 4
             2.1.1.1. Handoff-Zone: Receiving Resources
-.XA 1
+.XA 4
             2.1.1.2. Handoff-Zone: Sharing Products
-.XA 1
-        2.1.2. Production Networks
-.XA 1
-            2.1.2.1. Storage Requirements
-.XA 1
-        2.1.3. Transport Network
 .XA 6
+        2.1.2. Production Networks
+.XA 8
+            2.1.2.1. Storage Requirements
+.XA 8
+        2.1.3. Transport Network
+.XA 8
     2.2. Interfacing with OpenComputers
-.XA 1
+.XA 9
         2.2.1. Industrial Monitoring System
-.XA 1
+.XA 9
             2.2.1.1. On-Site
-.XA 1
+.XA 9
             2.2.1.2. Off-Site
-.XA 1
+.XA 10
     2.3. Network Security Requirements
-.XA 7
+.XA 10
 3. Pulverized Charcoal
-.XA 7
+.XA 11
     3.1. Description
-.XA 8
+.XA 11
     3.2. Flow Charts
-.XA 8
+.XA 12
     3.3. Setup Photos
-.XA 17
+.XA 21
 4. Cobblestone
-.XA 17
+.XA 21
     4.1. Description
-.XA 17
+.XA 21
     4.2. Flow Charts
-.XA 17
+.XA 22
     4.3. Setup Photos
-.XA 19
-5. Sand
-.XA 19
-    5.1. Description
-.XA 19
-    5.2. Flow Charts
-.XA 19
-    5.3. Setup Photos
 .XA 23
+5. Sand
+.XA 23
+    5.1. Description
+.XA 23
+    5.2. Flow Charts
+.XA 24
+    5.3. Setup Photos
+.XA 28
 6. Sandstone
-.XA 24
+.XA 28
     6.1. Description
-.XA 24
+.XA 28
     6.2. Flow Charts
-.XA 24
+.XA 28
     6.3. Setup Photos
-.XA 26
+.XA 31
 7. Niter
-.XA 27
+.XA 31
     7.1. Description
-.XA 27
+.XA 31
     7.2. Flow Charts
-.XA 27
+.XA 31
     7.3. Setup Photos
-.XA 32
+.XA 36
 8. Slag
-.XA 32
-    8.1. Description
-.XA 32
-    8.2. Flow Charts
-.XA 33
-    8.3. Setup Photos
-.XA 36
-9. Phyto-Gro
-.XA 36
-    9.1. Description
-.XA 36
-    9.2. Flow Charts
 .XA 37
-    9.3. Setup Photos
-.XA 39
-10. Water
-.XA 39
-    10.1. Description
-.XA 39
-    10.2. Flow Charts
-.XA 39
-    10.3. Setup Photos
+    8.1. Description
+.XA 37
+    8.2. Flow Charts
+.XA 37
+    8.3. Setup Photos
+.XA 40
+9. Phyto-Gro
 .XA 41
+    9.1. Description
+.XA 41
+    9.2. Flow Charts
+.XA 41
+    9.3. Setup Photos
+.XA 43
+10. Water
+.XA 43
+    10.1. Description
+.XA 44
+    10.2. Flow Charts
+.XA 44
+    10.3. Setup Photos
+.XA 46
 11. Sugar Cane and Potatoes
-.XA 42
+.XA 46
     11.1. Description
-.XA 42
+.XA 46
     11.2. Flow Charts
-.XA 42
+.XA 47
     11.3. Setup Photos
-.XA 48
+.XA 53
 12. Sugar
-.XA 49
+.XA 53
     12.1. Description
-.XA 49
+.XA 53
     12.2. Flow Charts
-.XA 49
+.XA 53
     12.3. Setup Photos
-.XA 52
+.XA 57
 13. Sap
-.XA 53
+.XA 57
     13.1. Description
-.XA 53
+.XA 58
         13.1.1. Sap Sawmills PLC
-.XA 53
+.XA 58
     13.2. Operating State Advisory
-.XA 53
+.XA 58
     13.3. Flow Charts
-.XA 54
+.XA 59
     13.4. Setup Photos
-.XA 62
+.XA 67
 14. Rich Phyto-Gro
-.XA 62
+.XA 67
     14.1. Description
-.XA 63
+.XA 67
     14.2. Flow Charts
-.XA 63
+.XA 68
     14.3. Setup Photos
-.XA 67
+.XA 71
 15. Fluxed Phyto-Gro
-.XA 67
+.XA 72
     15.1. Description
-.XA 67
+.XA 72
     15.2. Flow Charts
-.XA 67
+.XA 72
     15.3. Setup Photos
-.XA 70
-16. Redstone-Growing
-.XA 70
-    16.1. Description
-.XA 71
-    16.2. Flow Charts
-.XA 71
-    16.3. Setup Photos
 .XA 75
-17. Mob Farm and Logic Systems
+16. Redstone-Growing
+.XA 75
+    16.1. Description
+.XA 75
+    16.2. Flow Charts
 .XA 76
-    17.1. Mob Farm Logic Controller
-.XA 79
-        17.1.1. Control Signal and Transport Medium for the Mob Farm Logic Controller
+    16.3. Setup Photos
+.XA 80
+17. Mob Farm and Logic Systems
 .XA 81
-    17.2. Operating State Advisory
-.XA 82
-    17.3. Mob Drop Routing
-.XA 82
-    17.4. Mob Farm Containment Structure and Accompanying Subsystems
-.XA 82
-        17.4.1. Containment Structure Wiring
-.XA 82
-            17.4.1.1. Wiring for Powered Spawners
-.XA 83
-            17.4.1.2. Wiring for Mob Mashers
-.XA 83
-            17.4.1.3. Wiring for Absorption Hoppers
+    17.1. Mob Farm Logic Controller
 .XA 84
-            17.4.1.4. Wiring for XP Vacuums
-.XA 85
-            17.4.1.5. Wiring for Mob Fans
-.XA 85
-            17.4.1.6. Power Delivery System
+        17.1.1. Control Signal and Transport Medium for the Mob Farm Logic Controller
 .XA 86
-        17.4.2. Mob Spawning Systems
-.XA 86
-        17.4.3. Mob Drop Collection
-.XA 86
-            17.4.3.1. Absorption Hoppers
+    17.2. Operating State Advisory
 .XA 87
+    17.3. Mob Drop Routing
+.XA 87
+    17.4. Mob Farm Containment Structure and Accompanying Subsystems
+.XA 87
+        17.4.1. Containment Structure Wiring
+.XA 87
+            17.4.1.1. Wiring for Powered Spawners
+.XA 88
+            17.4.1.2. Wiring for Mob Mashers
+.XA 88
+            17.4.1.3. Wiring for Absorption Hoppers
+.XA 89
+            17.4.1.4. Wiring for XP Vacuums
+.XA 90
+            17.4.1.5. Wiring for Mob Fans
+.XA 90
+            17.4.1.6. Power Delivery System
+.XA 91
+        17.4.2. Mob Spawning Systems
+.XA 91
+        17.4.3. Mob Drop Collection
+.XA 91
+            17.4.3.1. Absorption Hoppers
+.XA 92
                 17.4.3.1.1. Absorption Hopper Configurations
-.XA 89
+.XA 94
             17.4.3.2. XP Vacuums
-.XA 89
+.XA 94
         17.4.4. Mob Termination
-.XA 91
+.XA 96
         17.4.5. Mob Routing
-.XA 91
+.XA 96
             17.4.5.1. Mob Fan Left Wall
-.XA 92
+.XA 97
             17.4.5.2. Mob Fans Back Wall
-.XA 92
+.XA 97
             17.4.5.3. Mob Fans Ceiling
-.XA 93
+.XA 98
         17.4.6. Mitigating Mobs from becoming Stuck within Containment Structure
-.XA 94
+.XA 99
         17.4.7. Mob Death Sound Muffling
-.XA 94
+.XA 99
         17.4.8. Comment by Author
-.XA 94
+.XA 99
     17.5. Machinery Used
-.XA 94
+.XA 99
 18. Redstone and Gunpowder
-.XA 95
+.XA 100
     18.1. Description
-.XA 95
+.XA 100
     18.2. Flow Charts
-.XA 95
+.XA 100
     18.3. Setup Photos
-.XA 100
-19. Hootch
-.XA 100
-    19.1. Description
-.XA 101
-    19.2. Flow Charts
-.XA 101
-    19.3. Setup Photos
 .XA 105
+19. Hootch
+.XA 105
+    19.1. Description
+.XA 106
+    19.2. Flow Charts
+.XA 106
+    19.3. Setup Photos
+.XA 111
 20. Rocket Fuel
-.XA 106
+.XA 111
     20.1. Description
-.XA 106
+.XA 111
         20.1.1. Rocket Fuel Production Vats PLC
-.XA 106
+.XA 111
     20.2. Operating State Advisory
-.XA 106
+.XA 112
     20.3. Flow Charts
-.XA 107
+.XA 112
     20.4. Setup Photos
-.XA 114
+.XA 120
 21. Exporting Rocket Fuel Off-Site
-.XA 114
+.XA 120
     21.1. On-Site Export Network Setup Requirements
-.XA 115
+.XA 123
     21.2. Off-Site Export Network Setup Requirements
-.XA 116
+.XA 125
     21.3. Requirements for Power Delivery to Export Networks
-.XA 117
-        21.3.1. Avoiding an Energy Loop
-.XA 119
-    21.4. Chunkloading Requirements
-.XA 119
-    21.5. Known Issues
-.XA 119
-        21.5.1. Issue Classification System (ICS)
-.XA 119
-        21.5.2. I-001
 .XA 126
-22. Glossary
+        21.3.1. Avoiding an Energy Loop
+.XA 126
+    21.4. Chunkloading Requirements
 .XA 127
+22. Glossary
+.XA 128
 References
 .XE
 .PX
@@ -793,7 +787,7 @@ Network Security Requirements
 .LP
 Every Applied Energistics network within this document, be it production networks, the transport network, but excluding handoff-zones, MUST comply to the requirements defined within this section.
 .LP
-In Applied Energistics 2, network security is provided by the ME Security Terminal. At a minimum, the ME Security Terminal MUST contain a (single) Biometric Card, which is not bound to any player, and has been configured to provide NO PERMISSIONS. This results in all players having no permissions on the network. Permissions can be delegated on a player-by-player basis, where each player will have their own Biometric Card stored within the ME Security Terminal. Remember the principle of least privilege when delegating permissions to players. Generally, given the context, a trusted player SHOULD only be able to Deposit and Withdraw from the network (thatsIch, 2014)\*{[4]\*}; it is NOT RECOMMENDED to delegate any other permissions other than Deposit and Withdraw to a player.
+In Applied Energistics 2, network security is provided by the ME Security Terminal (thatsIch, 2014)\*{[4]\*}. At a minimum, the ME Security Terminal MUST contain a (single) Biometric Card, which is not bound to any player, and has been configured to provide NO PERMISSIONS. This results in all players having no permissions on the network. Permissions MAY be delegated on a player-by-player basis, where each player will have their own Biometric Card stored within the ME Security Terminal. Remember the principle of least privilege when delegating permissions to players. That is, players SHOULD only be assigned the Deposit and Withdraw permissions. It is NOT RECOMMENDED to delegate any other permissions other than Deposit and Withdraw to a player.
 .LP
 .PSPIC -C images/Applied_Energistics_2_Infrastructure/ps/security_terminal_principle_of_least_privilege.ps
 .ce 1
@@ -1836,7 +1830,7 @@ Phytogenic Insolator - Thermal Expansion
 .NH 2
 Description
 .LP
-Sugar Cane and Potatoes are grown using Phytogenic Insolators. These Phytogenic Insolators are separated into two columns, the first column producing Sugar Cane and the second column producing potatoes. Each Phytogenic Insolator is equipped with: the Monoculture Cycle specialization, one (1) Auxiliary Reception Coil, and two (2) Nutrient Recovery augments. These augments ensure there is a balance between speed, efficiency, and practicality.
+Sugar Cane and Potatoes are grown using Phytogenic Insolators. These Phytogenic Insolators are separated into two columns, the first column producing Sugar Cane and the second column producing potatoes. Each Phytogenic Insolator is equipped with: the Monoculture Cycle specialization, one (1) Auxiliary Reception Coil, and two (2) Nutrient Recovery augments. These augments ensure there is a balance between speed and efficiency.
 .NH 2
 Flow Charts
 .LP
@@ -3249,7 +3243,7 @@ Configuration 17-15. Ceiling Mob Fan upgrades.
 .NH 3
 Mitigating Mobs from becoming Stuck within Containment Structure
 .LP
-When using Conduit Facades, mobs (including the player) has a tendency to phase through them. Since the containment structure uses Hardened Conduit Facades on its floor, mobs tend to become stuck. To mitigate this, Mob Fans are placed one (1) meter under the floor, which are located to either side of the XP Vacuums. These push mobs up from the Hardened Conduit Facade they have phased through. Because a block is placed directly over the Mob Fans, their range is significantly reduced, which is a 3 meter x 3 meter x 1 meter (Length X Width X Height) area. These Mob Fans use: one (1) Width Modifier, and one (1) Height Modifier.
+When using Conduit Facades, mobs (including the player) have a tendency to phase through them. Since the containment structure uses Hardened Conduit Facades on its floor, mobs tend to become stuck. To mitigate this, Mob Fans are placed one (1) meter under the floor, which are located to either side of the XP Vacuums. These push mobs up from the Hardened Conduit Facade they have phased through. Because a block is placed directly over the Mob Fans, their range is significantly reduced, which is a 3 meter x 3 meter x 1 meter (Length X Width X Height) area. These Mob Fans use: one (1) Width Modifier, and one (1) Height Modifier.
 .LP
 These Mob Fans are toggled on/off by Redstone Conduits, which attach on the bottom side of the block.
 .LP
@@ -3284,7 +3278,7 @@ Photograph 17-18. Sound Muffler underneath a corner of the containment structure
 .NH 3
 Comment by Author
 .LP
-In Photograph 17-10, the physical Powered Spawners are depicted. As shown in said Photograph, only fifteen (15) Powered Spawners are being used (eleven (11) Witch Powered Spawners and four (4) Creeper Powered Spawners). While adding more than eleven (11) Witch Powered Spawners is certainly feasible, it is not recommended. This is because the increased Witch spawn rate will cause the Powered Spawners to idle more frequently, due to the maximum amount of mobs in the area being reached.
+In Photograph 17-10, the physical Powered Spawners are depicted. As shown in said Photograph, only fifteen (15) Powered Spawners are present: eleven (11) Witch Powered Spawners, and four (4) Creeper Powered Spawners. While adding more than eleven (11) Witch Powered Spawners is certainly feasible, it is NOT RECOMMENDED. This is because the increased witch spawn rate will cause the Powered Spawners to idle more frequently, due to the maximum number of mobs in the area being reached.
 .NH 2
 Machinery Used
 .LP
@@ -3991,59 +3985,6 @@ To avoid an energy loop, an ME Inverted Toggle Bus is installed on the Rocket Fu
 Chunkloading Requirements
 .LP
 Both the on-site and off-site export networks need to be chunkloaded. This includes all systems involved with the rocket fuel production process, and all systems involved off-site with exporting rocket fuel (i.e. what is shown in Photograph 21-2). Both sides of the export network MUST be chunkloaded at all times using whatever methods available. In the singleplayer environment it is RECOMMENDED that you use the Chunk Loader from ChickenChunks. In the multiplayer environment it is RECOMMENDED that you use the chunkloading methods provided to you by the server. When operating in the multiplayer environment it is NOT RECOMMENDED that you use alternative chunkloading methods other than those that are intended.
-\# Quantum Network Bridges do not chunkload themselves.
-.NH 2
-Known Issues
-.LP
-This section describes and discloses known issues that can arise during the operation of the export network. In context to the export network, an "issue" is an unwanted reaction by Applied Energistics 2 when the export network is modified, under certain conditions. This generally results in the game environment crashing. Outside of this context, an "issue" would be known as a "bug".
-.LP
-When describing an issue, the following information will be given:
-.nr step 1 1
-.IP \n[step] 4
-.B "I-NNN " "used to identify the issue. Where N is a number from 0 to 9. This will be the section heading." "First, a designation in the form of "
-.IP \n+[step]
-.B "Issue Class: <issue classification>" "', see Section 21.5.1." "Next, a classification describing the severity of the issue. The start of this section will be typed in bold, and read '"
-.IP \n+[step]
-.B "Cause:" "'." "Then, a description of the cause of the issue, and under what conditions the issue manifests. The start of this section will be typed in bold, and read '"
-.IP \n+[step]
-.B "Mitigation:" "'." "Lastly, a mitigation strategy will be given to reduce the risk of the issue occurring. The start of this section will be typed in bold, and read '"
-.NH 3
-Issue Classification System (ICS)
-.LP
-This section defines five (5) classifications used for conveying the severity of issues that can arise during the operation of the export network. These classifications are in context to the severity of the issue on the game environment, meaning the Minecraft server, and the likelihood that players performance will be affected.
-.LP
-.B "Low " "- The issue is unlikely to impact the operation of the game environment. These effects are unlikely to degrade performance for players." 
-.br
-.B "Moderate " "- The issue is likely to impact the operation of the game environment. These effects are likely to degrade performance for players."
-.br
-.B "High " "- The issue is very likely to impact the operation of the game environment. These effects will degrade performance for players, up to and including crashing the game."
-.br
-.B "Very High " "- The issue will invariably impact the operation of the game environment. These effects will severely degrade performance for players, up to and including crashing the game."
-.br
-.B "Extreme " "- The issue will severely impact the operation of the game environment. These effects will extremely degrade performance for players, resulting in the game crashing."
-.NH 3
-I-001
-.LP
-.B "Issue Class: Extreme"
-.LP
-.B "Cause: " "I-001 is caused when the on-site export network loses power and then is re-energized, causing it to reestablish the network bridge with the off-site export network. The conditions to produce I-001 are as follows:
-.nr step 1 1
-.IP \n[step] 6
-The chunkloading setup is compliant with what is described in Section 21.4, specifically using ChickenChunks chunkloaders.
-.IP \n+[step]
-During the current game session no players have rendered (i.e. not been around) the chunkloaded area containing the on-site export network.
-.IP \n+[step]
-The AE transport network is powered directly or indirectly by Ender IO Energy Conduits.
-.IP \n+[step]
-After not having players present in the area for a period of time, the on-site export network will lose power.
-.IP \n+[step]
-Upon entering the area after the on-site export network has lost power, the on-site export network will then re-energize and come online.
-.IP \n+[step]
-Seconds after the on-site export network has come back online, the game environment will immediately crash.
-.LP
-The catalyst for this issue are Ender IO Energy Conduits. Before being rendered by a player, even when chunkloaded, Ender IO Energy Conduits remain inert and do not transfer energy. This behavior ultimately causes whatever relies on energy from these conduits to cease operation, including all Applied Energistics networks. When this occurs the on-site export network goes offline. When a player enters the area, all Ender IO Energy Conduits will then behave normally (and will continue to do so when leaving the area). It is at this time I-001 will manifest, the on-site export network will be re-energized and attempt to establish a link to the off-site export network. Applied Energistics will then encounter a catastrophic error, resulting in the immediate cessation of the game environment.
-.LP
-.B "Mitigation: " "To mitigate I-001, go to the location of the on-site export network after loading the world. Going to the location right away minimizes the chance the on-site export network will run out of power before you get there. Once at the location, your player will have rendered the surrounding area, successfully mitigating I-001."
 \# Start glossary section, break page
 .bp
 .NH 1
